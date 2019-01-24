@@ -1,0 +1,10 @@
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WFA\HelloWorld_WFA\bin\Debug\HelloWorld_WFA.exe.config
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WFA\HelloWorld_WFA\bin\Debug\HelloWorld_WFA.exe
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WFA\HelloWorld_WFA\bin\Debug\HelloWorld_WFA.pdb
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WFA\HelloWorld_WFA\obj\Debug\HelloWorld_WFA.csprojAssemblyReference.cache
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WFA\HelloWorld_WFA\obj\Debug\HelloWorld_WFA.Form1.resources
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WFA\HelloWorld_WFA\obj\Debug\HelloWorld_WFA.Properties.Resources.resources
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WFA\HelloWorld_WFA\obj\Debug\HelloWorld_WFA.csproj.GenerateResource.cache
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WFA\HelloWorld_WFA\obj\Debug\HelloWorld_WFA.csproj.CoreCompileInputs.cache
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WFA\HelloWorld_WFA\obj\Debug\HelloWorld_WFA.exe
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WFA\HelloWorld_WFA\obj\Debug\HelloWorld_WFA.pdb

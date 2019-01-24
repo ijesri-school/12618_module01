@@ -1,0 +1,15 @@
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WPF\HelloWorld_WPF\bin\Debug\HelloWorld_WPF.exe.config
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WPF\HelloWorld_WPF\bin\Debug\HelloWorld_WPF.exe
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WPF\HelloWorld_WPF\bin\Debug\HelloWorld_WPF.pdb
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WPF\HelloWorld_WPF\obj\Debug\HelloWorld_WPF.csprojAssemblyReference.cache
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WPF\HelloWorld_WPF\obj\Debug\MainWindow.g.cs
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WPF\HelloWorld_WPF\obj\Debug\App.g.cs
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WPF\HelloWorld_WPF\obj\Debug\HelloWorld_WPF_MarkupCompile.cache
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WPF\HelloWorld_WPF\obj\Debug\HelloWorld_WPF_MarkupCompile.lref
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WPF\HelloWorld_WPF\obj\Debug\MainWindow.baml
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WPF\HelloWorld_WPF\obj\Debug\HelloWorld_WPF.g.resources
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WPF\HelloWorld_WPF\obj\Debug\HelloWorld_WPF.Properties.Resources.resources
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WPF\HelloWorld_WPF\obj\Debug\HelloWorld_WPF.csproj.GenerateResource.cache
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WPF\HelloWorld_WPF\obj\Debug\HelloWorld_WPF.csproj.CoreCompileInputs.cache
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WPF\HelloWorld_WPF\obj\Debug\HelloWorld_WPF.exe
+P:\Personal\School\Butler Community College\2018-2019\2019 Spring\IN 2017 - 12618\Assignments\ibrahim-jesri_module01\HelloWorld_WPF\HelloWorld_WPF\obj\Debug\HelloWorld_WPF.pdb
